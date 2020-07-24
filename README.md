@@ -3,8 +3,9 @@
 🌱 I’m currently learning - <strong> Python, Javascript, React JS and competitive programming. </strong> <br>
 🔭 I’m currently working on developing projects using Javascript,ReactJS and python,solving problems on LeetCode and Project Euler. <br>
 📫 LinkedIn profile - https://www.linkedin.com/in/prakhar-kopergaonkar-a37bb2176 <br>
-⚡ LeetCode profile - https://leetcode.com/pkopergaonkar/
+⚡ LeetCode profile - https://leetcode.com/pkopergaonkar/ <br>
 </p>
+[![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=PrakharKopergaonkar)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PrakharKopergaonkar/PrakharKopergaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,11 +8,11 @@
 
 <p>
 Social Media links :point_right: 
- LinkedIn <a href="https://www.linkedin.com/in/prakhar-kopergaonkar-a37bb2176 ">
+ LinkedIn <a href="https://www.linkedin.com/in/prakhar-kopergaonkar-a37bb2176 " target="_blank">
         <img align="center" alt="Prakhar's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> |
 LeetCode
-<a href="https://leetcode.com/pkopergaonkar/">
+<a href="https://leetcode.com/pkopergaonkar/" target="_blank">
         <img align="center" alt="Prakhar's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/leetcode.svg" />
 </a>
 </p>
